@@ -3,9 +3,11 @@
 	<name>Caravan Detected? Don't Care</name>
 	<author>1trickPwnyta</author>
 	<packageId>caravandetecteddontcare.1trickPwnyta</packageId>
+	<modVersion IgnoreIfNoMatchingField="True">1.0.2</modVersion>
 	<supportedVersions>
 		<li>1.3</li>
 		<li>1.5</li>
+		<li>1.6</li>
 	</supportedVersions>
 	<description>
 Were you planning on staying at that mining site for twelve days? Probably not. Do you want the game to bother you by sending you a letter telling you that you'll get raided if you stay too long? Every single time? Probably not???
@@ -13,7 +15,11 @@ Were you planning on staying at that mining site for twelve days? Probably not. 
 With this mod, the game will not send you a "Caravan detected" letter, but you can still see the alert on the right side of the screen that says how much time you have left.
 
 === Updates ===
+06/12/2025: Updated to 1.6
 03/21/2024: Updated to 1.5
+
+=== Credits ===
+Mod icon: twitter.com/mouse_draws
 	</description>
 	<url>https://github.com/1trickPwnyta/CaravanDetectedDontCare</url>
 	<modDependencies>
